@@ -13,7 +13,7 @@ export default function App() {
         <Link to="/upload" style={{ textDecoration: 'none' }}>Upload </Link> {" "}
         <Link to="/catalog" style={{ textDecoration: 'none' }}>Catalog </Link> {" "}
         <Link to="/story" style={{ textDecoration: 'none' }}>Story </Link> {" "}
-        <Link to="/coach" style={{ textDecoration: 'none' }}>Coach </Link>
+        <Link to="/coach" style={{ textDecoration: 'none' }}>Coach </Link> {" "}
       </nav>
 
       <Routes>
